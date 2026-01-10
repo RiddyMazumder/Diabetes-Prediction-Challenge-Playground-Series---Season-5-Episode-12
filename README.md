@@ -23,7 +23,7 @@
     <img src="https://github.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/blob/main/header_4.jpg" />
   </a>
 </p>
-Predicting the probability that a patient will be diagnosed with **diabetes** using **machine learning ensemble models**, including **CatBoost** and **LightGBM** with **optimized blending (0.60 CatBoost / 0.40 LightGBM)**.
+Predicting the probability that a patient will be diagnosed with diabetes using machine learning ensemble models, including CatBoost and LightGBM with 🔥optimized blending (0.60 CatBoost / 0.40 LightGBM)🔥.
 
 ---
 
